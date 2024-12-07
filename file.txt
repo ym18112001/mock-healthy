@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 mgsdhgdfhj
+=======
+adakhjhjaaasjnkjjj
+
+
+
+sds
+
+>>>>>>> b0367f9a71695259504a7e7c9dd70ec6e65e0e39
